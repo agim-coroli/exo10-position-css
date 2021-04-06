@@ -1,0 +1,48 @@
+.rectangleRouge{
+    background-color: red;
+    position: fixed;
+    height: 150px;
+    width: 100%;
+    top: 0;
+    left: 0;;
+}
+.petitRectangleMauve{
+    background-color: purple;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    right: 5%;
+    top: 10%;
+}
+
+.petitRectangleMauve2{
+    background-color: purple;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    right: 15%;
+    top: 15%;
+}
+.carreBleu{
+    background-color: blue;
+    position: relative;
+    height: 500px;
+    width: 70%;
+    left: 100px;
+    top: 200px;
+}
+.carreBleu2{
+    background-color: blue;
+    position: relative;
+    height: 2000px;
+    width: 70%;
+    left: 100px;
+    top: 200px;
+}
+.carrejaune{
+    background-color: yellow;
+    position: sticky;
+    height: 250px;
+    width: 250px;
+    top: 10px;
+}
